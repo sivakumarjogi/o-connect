@@ -1,0 +1,27 @@
+{
+    "BASE_URL": "https://obsapi.onpassive.com",
+    "tokenGenerateBaseUrl": "https://2damnrxq39.execute-api.us-east-1.amazonaws.com/prod",
+    "meetingBaseUrl": "https://fipjpxqa7c.execute-api.us-east-1.amazonaws.com/prod",
+    "templateBaseUrl": "https://9g2z82m1il.execute-api.us-east-1.amazonaws.com/prod",
+    "bgmBaseUrl": "https://mw2bbii2cl.execute-api.us-east-1.amazonaws.com/prod",
+    "chatBaseUrl": "https://rdjxkgwvj9.execute-api.us-east-1.amazonaws.com/prod",
+    "libraryBaseUrl": "https://w0auxv037j.execute-api.us-east-1.amazonaws.com/prod",
+    "globalAccessStatusSetUrl": "https://pi0pfrqey1.execute-api.us-east-1.amazonaws.com/prod",
+    "panelCountUrl": "",
+    "globalAccessSetUrl": "https://dw9pwbh7hh.execute-api.us-east-1.amazonaws.com/prod",
+    "pollBaseUrl": "https://uxlia8eme4.execute-api.us-east-1.amazonaws.com/prod",
+    "trimUrlsBaseUrl": "https://o-trim.co/insertURLForOConnect",
+    "hubSocketUrl": "https://hub.onpassive.com/",
+    "meetingRoomSocketUrl": "https://rms.onpassive.com/",
+    "chatSocketUrl": "https://chat.onpassive.com/",
+    "whiteBoardSocketUrl": "https://wb.onpassive.com/",
+    "baseOriginUrl": "https://ecosystem.onpassive.com",
+    "imageUrl": "https://de4nfar4wtruu.cloudfront.net/",
+    "omailEndTag": "@omail.ai",
+    "webinarCopyLinkBaseUrl":"https://ecosystem.onpassive.com",
+
+  "meetingRequests":"https://5be2nwr5cd.execute-api.ap-south-1.amazonaws.com/prod",
+  "savedTemplate":"https://qwk0dxowjc.execute-api.ap-south-1.amazonaws.com/prod",
+  "redirectRegisterUrl":"https://www.onpassive.com/oes/",
+    "getMeetingCount": "https://5be2nwr5cd.execute-api.ap-south-1.amazonaws.com/prod"
+}

@@ -1,0 +1,33 @@
+{
+    "BASE_URL": "https://obsapi-dev.onpassive.com",
+    "tokenGenerateBaseUrl": "https://hyg117gtq5.execute-api.ap-south-1.amazonaws.com/devNew",
+    "meetingBaseUrl": "https://zennez9sz3.execute-api.ap-south-1.amazonaws.com/devNew",
+    "templateBaseUrl": "https://lpkrnjjcw6.execute-api.ap-south-1.amazonaws.com/devNew",
+    "bgmBaseUrl": "https://pl6jlq6gwa.execute-api.ap-south-1.amazonaws.com/devNew",
+    "chatBaseUrl": "https://l8i4czsj3l.execute-api.ap-south-1.amazonaws.com/devNew",
+    "libraryBaseUrl": "https://xend0l50h4.execute-api.ap-south-1.amazonaws.com/devNew",
+    "globalAccessStatusSetUrl": "https://h88etq24z6.execute-api.ap-south-1.amazonaws.com/devNew",
+    "panelCountUrl": "https://heacnqjm2e.execute-api.ap-south-1.amazonaws.com/devNew",
+    "globalAccessSetUrl": "https://9doxkwok75.execute-api.ap-south-1.amazonaws.com/devNew",
+    "pollBaseUrl": "https://xb89ea5czd.execute-api.ap-south-1.amazonaws.com/devNew",
+    "trimUrlsBaseUrl": "https://otrimapidev.onpassive.com",
+    "hubSocketUrl": "https://hub-dev.onpassive.com/",
+    "meetingRoomSocketUrl": "https://rms-dev.onpassive.com/",
+    "chatSocketUrl": "https://chat-dev.onpassive.com/",
+    "baseOriginUrl": "https://oconnectqa-ui.onpassive.com",
+    "whiteBoardSocketUrl": "https://wb-dev.onpassive.com/",
+    "imageUrl": "https://d78507ulq3zca.cloudfront.net/",
+    "omailEndTag": "@dev.o-mailnow.net",
+    "flavor": "development",
+    "meetingCount": "https://c8suo6xh3g.execute-api.ap-south-1.amazonaws.com/devNew/meeting-restriction/",
+    "webinarCopyLinkBaseUrl": "https://obs-dev.onpassive.com",
+    "getDefaultDataUrl": "https://cj3jqdic0m.execute-api.ap-south-1.amazonaws.com/devNew/userData/get",
+    "addDefaultDataUrl": "https://cj3jqdic0m.execute-api.ap-south-1.amazonaws.com/devNew/userData/add",
+    "redirectRegisterUrl":"https://obs-dev.onpassive.com/auth",
+
+  "getMeetingCount": "https://5be2nwr5cd.execute-api.ap-south-1.amazonaws.com/devNew",
+
+  "meetingRequests":"https://5be2nwr5cd.execute-api.ap-south-1.amazonaws.com/devNew",
+    "savedTemplate":"https://qwk0dxowjc.execute-api.ap-south-1.amazonaws.com/devNew"
+
+}

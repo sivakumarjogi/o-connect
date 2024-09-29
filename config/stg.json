@@ -1,0 +1,23 @@
+{
+    "BASE_URL": "https://obsapi-sg.onpassive.com",
+    "tokenGenerateBaseUrl": "https://ocmr-ppuserservicesql.oconnect.ai/user",
+    "meetingBaseUrl": "https://ocmr-ppmeeting.oconnect.ai",
+    "templateBaseUrl": "https://ocmr-pptemplate.oconnect.ai",
+    "bgmBaseUrl": "https://ocmr-ppfeatures.oconnect.ai",
+    "chatBaseUrl": "https://ocmr-ppchat.oconnect.ai",
+    "libraryBaseUrl": "https://ocmr-ppwebinarlist.oconnect.ai",
+    "globalAccessStatusSetUrl": "https://ocmr-ppglobalaccesscontrol.oconnect.ai/global-access/status/set",
+    "panelCountUrl": "https://b18xwd2jah.execute-api.ap-south-1.amazonaws.com/qaold",
+    "globalAccessSetUrl": "https://ocmr-ppglobalservice.oconnect.ai",
+    "pollBaseUrl": "https://ocmr-ppsurveyservice.oconnect.ai",
+    "trimUrlsBaseUrl": "https://otrimapi-sg.onpassive.com",
+    "hubSocketUrl": "https://hub-pp.onpassive.com/",
+    "meetingRoomSocketUrl": "https://rms-pp.onpassive.com/socket.io/",
+    "chatSocketUrl": "https://mrchat-pp.oconnect.ai/",
+    "baseOriginUrl": "https://oconnectqa-ui.onpassive.com",
+    "whiteBoardSocketUrl": "https://wb-pp.onpassive.com/",
+    "imageUrl": "https://de4nfar4wtruu.cloudfront.net/",
+    "omailEndTag": "@qa.o-mailnow.net",
+    "flavor": "stg",
+    "meetingCount": "https://5n968gg6m8.execute-api.ap-south-1.amazonaws.com/qaold/meeting-restriction/"
+}
